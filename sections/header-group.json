@@ -40,7 +40,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Black_Beige_Modern_Simple_Minimal_Vanilla_Fashion_Store_Logo_910c77e9-c89a-446f-8d29-b4509aeba1c8.png",
         "logo_max_width": 200,
