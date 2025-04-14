@@ -54,10 +54,31 @@
             "background_gradient": ""
           }
         },
-        "image_VxPg6a": {
+        "image_Vnhemm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/kenzie-kraft-AOp8ToLJ44o-unsplash.jpg",
+            "image": "shopify://shop_images/shin-abbasii-5VD-ASpKwb8-unsplash.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_XgFeP6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/kenzie-kraft-Fk42PE_9eX8-unsplash.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -79,7 +100,8 @@
       "block_order": [
         "image_xEmmc7",
         "image_ADbHfY",
-        "image_VxPg6a"
+        "image_Vnhemm",
+        "image_XgFeP6"
       ],
       "settings": {
         "full_width": true,
