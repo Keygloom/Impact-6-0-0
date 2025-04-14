@@ -33,6 +33,27 @@
             "background_gradient": ""
           }
         },
+        "image_ADbHfY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/alireza-esmaeeli-3pOVkB14GE4-unsplash.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "image_VxPg6a": {
           "type": "image",
           "settings": {
@@ -53,54 +74,12 @@
             "background": "",
             "background_gradient": ""
           }
-        },
-        "image_XejF6h": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/kenzie-kraft-2wiDKO4xbtQ-unsplash.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_tLztfK": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
         }
       },
       "block_order": [
         "image_xEmmc7",
-        "image_VxPg6a",
-        "image_XejF6h",
-        "image_tLztfK"
+        "image_ADbHfY",
+        "image_VxPg6a"
       ],
       "settings": {
         "full_width": true,
