@@ -42,9 +42,9 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Kopie_van_Black_Beige_Modern_Simple_Minimal_Vanilla_Fashion_Store_Logo.png",
+        "logo": "shopify://shop_images/Kopie_van_Black_Beige_Modern_Simple_Minimal_Vanilla_Fashion_Store_Logo-2.png",
         "logo_max_width": 140,
-        "logo_mobile_max_width": 150,
+        "logo_mobile_max_width": 25,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
