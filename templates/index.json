@@ -12,10 +12,50 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
+        "image_xEmmc7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/tony-saiko-QkQjetjY8Ps-unsplash.jpg",
+            "image": "shopify://shop_images/kenzie-kraft-JNtXaAYmc88-unsplash_3e02302b-70a5-4e05-aceb-b90d084507c7.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_VxPg6a": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_XejF6h": {
+          "type": "image",
+          "settings": {
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -35,7 +75,9 @@
         }
       },
       "block_order": [
-        "slide-1"
+        "image_xEmmc7",
+        "image_VxPg6a",
+        "image_XejF6h"
       ],
       "settings": {
         "full_width": true,
