@@ -33,16 +33,16 @@
             "background_gradient": ""
           }
         },
-        "image_ADbHfY": {
+        "image_NwyJD7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/alireza-esmaeeli-3pOVkB14GE4-unsplash.jpg",
+            "image": "shopify://shop_images/kenzie-kraft-XicMH_qFNXM-unsplash.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Destaque - se sendo você mesmo.",
-            "heading_tag": "h4",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h3",
             "button_text": "Compre agora",
             "button_link": "",
             "text_color": "#ffffff",
@@ -54,17 +54,17 @@
             "background_gradient": ""
           }
         },
-        "image_Vnhemm": {
+        "image_nwhBWg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shin-abbasii-5VD-ASpKwb8-unsplash.jpg",
+            "image": "shopify://shop_images/kenzie-kraft-Y0bRv0KM6Vs-unsplash.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Confiança veste todos os corpos.",
-            "heading_tag": "h4",
-            "button_text": "Compre agora",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -99,8 +99,8 @@
       },
       "block_order": [
         "image_xEmmc7",
-        "image_ADbHfY",
-        "image_Vnhemm",
+        "image_NwyJD7",
+        "image_nwhBWg",
         "image_XgFeP6"
       ],
       "settings": {
