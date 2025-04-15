@@ -348,21 +348,38 @@
     },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/a-photograph-of-a-stylish-modern-fashion_GbN01Bl8SKmZts98DlMXxA_qHg1wCmJSgilfzJ6fhWd2Q.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_HJHW4L": {
+      "type": "rich-text",
       "blocks": {
-        "1664424230c4756b0e-0": {
+        "subheading_6G6UaQ": {
           "type": "subheading",
           "settings": {
             "text": "Subheading"
           }
         },
-        "1664424230c4756b0e-1": {
+        "heading_rWzVTU": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "1664424230c4756b0e-2": {
+        "richtext_aMdEfK": {
           "type": "richtext",
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -370,20 +387,18 @@
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "subheading_6G6UaQ",
+        "heading_rWzVTU",
+        "richtext_aMdEfK"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media-grid": {
@@ -816,6 +831,7 @@
     "featured-collection",
     "impact-text",
     "image-with-text-overlay",
+    "rich_text_HJHW4L",
     "media-grid",
     "before-after-image",
     "press",
