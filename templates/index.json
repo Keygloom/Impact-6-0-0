@@ -127,15 +127,15 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "lg",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "background": "#1a1a1a",
+        "background_gradient": "linear-gradient(60deg, rgba(255, 255, 254, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
     "collection-list": {
