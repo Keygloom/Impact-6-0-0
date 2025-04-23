@@ -12,10 +12,31 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "image_XgFeP6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a-photograph-of-a-stylish-modern-fashion_GbN01Bl8SKmZts98DlMXxA_qHg1wCmJSgilfzJ6fhWd2Q.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Ele. Ela. Vista do seu jeito.",
+            "heading_tag": "h4",
+            "button_text": "Compre agora",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "image_xEmmc7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/kenzie-kraft-JNtXaAYmc88-unsplash_3e02302b-70a5-4e05-aceb-b90d084507c7.jpg",
+            "image": "shopify://shop_images/kenzie-kraft-Fk42PE_9eX8-unsplash_598b4393-b87d-4293-98d5-6020227b24b9.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -36,7 +57,7 @@
         "image_NwyJD7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/kenzie-kraft-XicMH_qFNXM-unsplash.jpg",
+            "image": "shopify://shop_images/ann-danilina-r4RR9ufcOVI-unsplash.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -74,56 +95,13 @@
             "background": "",
             "background_gradient": ""
           }
-        },
-        "image_XgFeP6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/kenzie-kraft-Fk42PE_9eX8-unsplash.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Ele. Ela. Vista do seu jeito.",
-            "heading_tag": "h4",
-            "button_text": "Compre agora",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_hT7L99": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/a-photograph-of-a-stylish-modern-fashion_GbN01Bl8SKmZts98DlMXxA_qHg1wCmJSgilfzJ6fhWd2Q.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
         }
       },
       "block_order": [
+        "image_XgFeP6",
         "image_xEmmc7",
         "image_NwyJD7",
-        "image_nwhBWg",
-        "image_XgFeP6",
-        "image_hT7L99"
+        "image_nwhBWg"
       ],
       "settings": {
         "full_width": true,
@@ -145,7 +123,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/bruno-ngarukiye-wZrt9GcVk9c-unsplash.jpg",
+            "image": "shopify://shop_images/alimarel-Pucq9uwDCLM-unsplash_f0e5a18b-39a6-4d3b-857d-bc0170bdd35d.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -160,6 +138,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/sumaiya-islam-vmZaUZOTT4U-unsplash.jpg",
             "subheading": "",
             "title": "",
             "url": "",
