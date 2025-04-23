@@ -15,13 +15,13 @@
         "image_XgFeP6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a-photograph-of-a-stylish-modern-fashion_GbN01Bl8SKmZts98DlMXxA_qHg1wCmJSgilfzJ6fhWd2Q.jpg",
-            "content_max_width": 780,
+            "image": "shopify://shop_images/3eal13QdSe-PKIc3gd9Srg_6ebf7a50-735f-42af-91c7-c7d65486d739.webp",
+            "content_max_width": 1000,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Ele. Ela. Vista do seu jeito.",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "button_text": "Compre agora",
             "button_link": "",
             "text_color": "#ffffff",
