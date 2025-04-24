@@ -43,8 +43,8 @@
         "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Kopie_van_Clothing_Brand_Fashion_logo_37550497-f953-40e4-a48c-b1c9a553d36c.png",
-        "logo_max_width": 105,
-        "logo_mobile_max_width": 25,
+        "logo_max_width": 300,
+        "logo_mobile_max_width": 115,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -59,8 +59,8 @@
         "transparent_header_text_color": "#ffffff",
         "transparent_logo": "shopify://shop_images/Kopie_van_Black_Beige_Modern_Simple_Minimal_Vanilla_Fashion_Store_Logo-2.png",
         "reduce_padding": false,
-        "background_opacity": 49,
-        "background_blur_radius": 10
+        "background_opacity": 0,
+        "background_blur_radius": 0
       }
     }
   },
