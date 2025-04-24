@@ -15,8 +15,8 @@
         "image_XgFeP6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3eal13QdSe-PKIc3gd9Srg_6ebf7a50-735f-42af-91c7-c7d65486d739.webp",
-            "content_max_width": 1000,
+            "image": "shopify://shop_images/h8BdQvVWR2O95U1dMKQBuw.webp",
+            "content_max_width": 1100,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
@@ -107,7 +107,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "show_initial_transition": false,
-        "image_size": "lg",
+        "image_size": "md",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": true,
@@ -123,7 +123,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/alimarel-Pucq9uwDCLM-unsplash_f0e5a18b-39a6-4d3b-857d-bc0170bdd35d.jpg",
+            "image": "shopify://shop_images/mark-adriane--uJ3N7HLiEg-unsplash.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -138,7 +138,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/sumaiya-islam-vmZaUZOTT4U-unsplash.jpg",
+            "image": "shopify://shop_images/kenzie-kraft-9QW52RyBLao-unsplash_92eb1b89-66c2-43fb-97ff-b079b6a46502.jpg",
             "subheading": "",
             "title": "",
             "url": "",
